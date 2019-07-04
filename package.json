@@ -1,0 +1,25 @@
+{
+  "name": "markfizzbuzz",
+  "version": "1.0.0",
+  "description": "basic express npm simple tasks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GotchaGuy/MarkFizzBuzz.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GotchaGuy/MarkFizzBuzz/issues"
+  },
+  "homepage": "https://github.com/GotchaGuy/MarkFizzBuzz#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
